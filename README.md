@@ -1,1 +1,1 @@
-# ecopulse-final-demo
+EcoPulse AI stable demo version. No external API required.
